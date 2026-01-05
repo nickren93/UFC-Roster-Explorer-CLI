@@ -1,4 +1,4 @@
-# Phase 3 Project: UFC Fighters & Divisions Look Up CLI
+# UFC Roster Explorer CLI
 
 ## Introduction
 
